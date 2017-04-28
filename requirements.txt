@@ -1,0 +1,5 @@
+Flask
+Flask-OAuthlib
+Flask-Script
+Flask-SQLAlchemy
+mysqlclient
